@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A software developer from Thailand.
+  A Computer Engineering Student From Thailand.
 </p>
 
 <p align='center'>
