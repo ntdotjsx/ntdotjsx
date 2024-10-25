@@ -7,17 +7,17 @@
 </p>
 
 <p align='center'>
-  <a href="https://github.com/sponsors/Nutmito">
+  <a href="https://github.com/sponsors/ntdotjsx">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://nutmito.github.io/">
+  <a href="https://ntdotjsx.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon optionasdasdads -->
   </a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>
-      <img src="https://github-readme-stats.vercel.app/api?username=Nutmito&show_icons=true&count_private=true&hide_border=true&theme=dark" width="350">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutmito&layout=compact&hide_border=true&theme=dark" height="147" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ntdotjsx&show_icons=true&count_private=true&hide_border=true&theme=dark" width="350">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntdotjsx&layout=compact&hide_border=true&theme=dark" height="147" alt="Top Languages" />
 </p>
 
 <p align='center'>
